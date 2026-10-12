@@ -1,0 +1,20 @@
+ネイロフォール（NEIRO FALL）で使っている他者の素材
+
+■ 楽器の音（旋律・伴奏）
+FluidR3_GM SoundFont（Frank Wen ほか）
+ライセンス: Creative Commons Attribution 3.0（CC BY 3.0） https://creativecommons.org/licenses/by/3.0/
+取得元: https://github.com/gleitz/midi-js-soundfonts （FluidR3_GM を mp3 に書き出したもの。リポジトリのコードは MIT License, Copyright (C) 2012 Benjamin Gleitzman）
+加工: 必要な音域の音だけを抜き出し、楽器ごとに1つのファイルにまとめた（snd/*.bin。音そのものは変更していない）。
+
+■ ドラム・打楽器の音
+Versilian Community Sample Library（VCSL, Sam Gossner ほか）
+ライセンス: CC0 1.0 Universal（パブリックドメイン） https://creativecommons.org/publicdomain/zero/1.0/
+取得元: https://github.com/sgossner/VCSL
+加工: 短く切りそろえ、モノラルにして音量をそろえた。キックは大太鼓の音に合成した低音を重ねた（snd/drums.bin）。
+
+■ 曲
+収録20曲は、作曲者の没後長い年月がたった作品、または作者不詳の民謡・古謡で、いずれも著作権の保護期間が終わっています。
+旋律・和音・伴奏・譜面は、このゲームのために新しく編曲・制作したものです（既存の録音や楽譜の版は使っていません）。
+
+■ プログラム・画面
+すべてこのゲームのために書いたものです。
